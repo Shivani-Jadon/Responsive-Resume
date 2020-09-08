@@ -6,7 +6,7 @@ A webpage based Resume which is responsive in nature and built using html, css f
 - Smooth Scroll.
 - Navigation feature to each section.
 - Animation to enhance user experience.
-- Attractive design and cover.
+- Attractive design, cover and user interaction.
 
 ## Hosting Link
-  [My Resume]()
+  [My Resume](https://shivani-jadon.github.io/Responsive-Resume/)
